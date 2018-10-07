@@ -2,4 +2,12 @@
 layout: default
 title: Projects
 ---
-<h1>Projects</h1>
+<h3> Projects </h3>
+
+<ol class="research">
+	{% for item in site.data.projects %}
+	<li class="paper">
+		<p>{{ item.name}}</p>
+	</li>
+	{% endfor %}
+</ol>

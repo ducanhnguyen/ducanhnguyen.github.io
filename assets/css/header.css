@@ -1,20 +1,17 @@
 body{
 	margin: auto;
-	width: 70%;
 	font-family: 'Open Sans', sans-serif;
 }
 
-#header{
-	width: 100%;
-	/*border: 1px solid red;*/
-	float: left;
-	display: block;	
-}
-
-#logo{
+#auburn{
 	width: 60px;
 	height: 60px;
 	float: left;
-	margin-right: 40px;
+	margin-left: 200px;
 	display: block;
+}
+
+.my-menu{
+	float: right;
+	margin-right: 10%;
 }

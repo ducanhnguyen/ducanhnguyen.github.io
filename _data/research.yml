@@ -1,5 +1,36 @@
-- author: Anh Nguyen
-  paper: "CFT4Cpp: An automated tool for C/C++"
-  
-- author: Phong Vu
-  paper: "APLACA"
+- author: Tung Thanh Nguyen, Hoan Anh Nguyen, Nam H Pham, Jafar M Al-Kofahi, Tien N Nguyen
+  paper: "Graph-based mining of multiple object usage patterns"
+  publication-date: 2009/8/24
+  conference: Proceedings of the the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering
+  pages: 383-392
+  abstract: The interplay of multiple objects in object-oriented programming often follows specific protocols, for example certain orders of method calls and/or control structure constraints among them that are parts of the intended object usages. Unfortunately, the information is not always documented. That creates long learning curve, and importantly, leads to subtle problems due to the misuse of objects. In this paper, we propose GrouMiner, a novel graph-based approach for mining the usage patterns of one or multiple objects. GrouMiner approach includes a graph-based representation for multiple object usages, a pattern mining algorithm, and an anomaly detection technique that are efficient, accurate, and resilient to software changes. Our experiments on several real-world programs show that our prototype is able to find useful usage patterns with multiple objects and control structures, and to translate them into user-friendly code skeletons to assist developers in programming. It could also detect the usage anomalies that caused yet undiscovered defects and code smells in those programs.
+  icon: assets/images/icse.jpg
+
+- author: Nam H Pham, Hoan Anh Nguyen, Tung Thanh Nguyen, Jafar M Al-Kofahi, Tien N Nguyen
+  paper: Complete and accurate clone detection in graph-based models
+  publication-date: 2009/5/16
+  conference: Proceedings of the 31st International conference on Software Engineering
+  pages: 276-286
+  abstract: Model-Driven Engineering (MDE) has become an important development framework for many large-scale software. Previous research has reported that as in traditional code-based development, cloning also occurs in MDE. However, there has been little work on clone detection in models with the limitations on detection precision and completeness. This paper presents ModelCD, a novel clone detection tool for Matlab/Simulink models, that is able to efficiently and accurately detect both exactly matched and approximate model clones. The core of ModelCD is two novel graph-based clone detection algorithms that are able to systematically and incrementally discover clones with a high degree of completeness, accuracy, and scalability. We have conducted an empirical evaluation with various experimental studies on many real-world systems to demonstrate the usefulness of our approach and to compare the performance of ModelCD with existing tools.
+  icon: assets/images/icse.jpg
+- author: Hoan Anh Nguyen, Tung Thanh Nguyen, Gary Wilson Jr, Anh Tuan Nguyen, Miryung Kim, Tien N Nguyen
+  paper: A graph-based approach to API usage adaptation
+  publication-date: 2010/10/17
+  conference: ACM Sigplan Notices
+  pages: 302-321
+  abstract: Reusing existing library components is essential for reducing the cost of software development and maintenance. When library components evolve to accommodate new feature requests, to fix bugs, or to meet new standards, the clients of software libraries often need to make corresponding changes to correctly use the updated libraries. Existing API usage adaptation techniques support simple adaptation such as replacing the target of calls to a deprecated API, however, cannot handle complex adaptations such as creating a new object to be passed to a different API method, or adding an exception handling logic that surrounds the updated API method calls. This paper presents LIBSYNC that guides developers in adapting API usage code by learning complex API usage adaptation patterns from other clients that already migrated to a new library version (and also from the API usages within the library's test code). LIBSYNC uses several graph-based techniques (1) to identify changes to API declarations by comparing two library versions, (2) to extract associated API usage skeletons before and after library migration, and (3) to compare the extracted API usage skeletons to recover API usage adaptation patterns. Using the learned adaptation patterns, LIBSYNC recommends the locations and edit operations for adapting API usages. The evaluation of LIBSYNC on real-world software systems shows that it is highly correct and useful with a precision of 100% and a recall of 91%.
+  icon: assets/images/icse.jpg
+- author: Tung Thanh Nguyen, Hoan Anh Nguyen, Nam H Pham, Jafar Al-Kofahi, Tien N Nguyen
+  paper: Recurring bug fixes in object-oriented programs
+  publication-date: 2010/5/1
+  conference: Proceedings of the 32Nd ACM/IEEE International conference on Software Engineering-Volume 1
+  pages: 315-324
+  abstract: Previous research confirms the existence of recurring bug fixes in software systems. Analyzing such fixes manually, we found that a large percentage of them occurs in code peers, the classes/methods having the similar roles in the systems, such as providing similar functions and/or participating in similar object interactions. Based on graph-based representation of object usages, we have developed several techniques to identify code peers, recognize recurring bug fixes, and recommend changes for code units from the bug fixes of their peers. The empirical evaluation on several open-source projects shows that our prototype, FixWizard, is able to identify recurring bug fixes and provide fixing recommendations with acceptable accuracy.
+  icon: assets/images/icse.jpg
+- author: Tung Thanh Nguyen, Anh Tuan Nguyen, Hoan Anh Nguyen, Tien N Nguyen
+  paper: A statistical semantic language model for source code
+  publication-date: 2013/8/18
+  conference: Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering
+  pages: 532-542
+  abstract: Recent research has successfully applied the statistical n-gram language model to show that source code exhibits a good level of repetition. The n-gram model is shown to have good predictability in supporting code suggestion and completion. However, the state-of-the-art n-gram approach to capture source code regularities/patterns is based only on the lexical information in a local context of the code units. To improve predictability, we introduce SLAMC, a novel statistical semantic language model for source code. It incorporates semantic information into code tokens and models the regularities/patterns of such semantic annotations, called sememes, rather than their lexemes. It combines the local context in semantic n-grams with the global technical concerns/functionality into an n-gram topic model, together with pairwise associations of program elements. Based on SLAMC, we developed a new code suggestion method, which is empirically evaluated on several projects to have relatively 18-68% higher accuracy than the state-of-the-art approach.
+  icon: assets/images/icse.jpg

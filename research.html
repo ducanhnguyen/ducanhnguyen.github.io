@@ -2,4 +2,14 @@
 layout: default
 title: Research
 ---
-<h1>Research</h1>
+
+<h3> Publications </h3>
+
+<div id="projects">
+	{% for item in site.data.research %}
+	<div class="project">
+		<img class="img-thumbnail" src="{{ item.icon }}" alt="Logo">
+		<p>{{ item.author}}, <i>{{ item.paper }}</i>, {{ item.conference}}, {{ item.publication-date}}, {{ item.pages}}</p>
+	</div>
+	{% endfor %}
+</div>

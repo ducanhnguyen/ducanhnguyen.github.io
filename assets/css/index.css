@@ -1,0 +1,40 @@
+#content{
+	margin-left: 28%;
+	margin-top: 70px;
+	margin-right: 10%;
+	/*border: 1px solid black;*/
+	float: left;
+}
+
+#team-description{
+	text-align: justify;
+}
+
+.members{
+	margin-top: 20px;
+}
+
+.member{
+	float: left;
+	width: 50%;
+	padding: 8px;
+	text-align: justify;
+	/*border: 1px solid black;*/
+}
+
+.member > img{
+	width: 120px;
+	height: 120px;
+	margin: 6px;
+	float: left;
+}
+
+.member > .member-description{
+	margin: 10px;
+}
+
+.member:hover{
+	background-color: #001f3f;
+	color: white;
+	cursor: pointer;
+}

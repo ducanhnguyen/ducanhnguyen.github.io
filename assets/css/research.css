@@ -1,0 +1,16 @@
+.project{
+	margin-bottom: 20px;
+	text-align: justify;
+}
+
+.project > img{
+	height: auto;
+	width: 70px;
+	display: inline;
+	float: left;
+	margin-right: 10px;
+}
+
+.project > p{
+	display: inline;
+}

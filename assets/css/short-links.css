@@ -1,0 +1,16 @@
+#short-links{
+	position: fixed;
+	top: 70px;
+	left: 15%;
+	/*border: 1px solid black;*/
+}
+
+#short-links > p{
+	font-weight: bold;
+}
+
+#short-links > ul > li:hover{
+	cursor: pointer;
+	font-weight: bold;
+	text-decoration: underline;
+}

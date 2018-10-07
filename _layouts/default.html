@@ -3,38 +3,47 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="./assets/css/header.css">
-    <link rel="stylesheet" type="text/css" href="./assets/css/content.css">
     <link rel="stylesheet" type="text/css" href="./assets/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/index.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/short-links.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/research.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' 
   </head>
   <body>
   	<!-- Header -->
-  	<div id="header">
-  		<nav class="navbar navbar-default">
-		  <div class="container-fluid">
+  	<div id="container-fluid">
+  		<nav class="navbar navbar-inverse container-fluid navbar-fixed-top">
 		    <div class="navbar-header">
-		    	<img id="logo" src="./assets/images/logo.png" alt="Logo">
-		    	<a class="navbar-brand" href="#">SIS Research Group</a>
+		    	<img id="auburn" src="./assets/images/auburn.png" alt="Logo">
+		    	<a id="team-name" class="navbar-brand" href="#">SIS Research Group</a>
 		    </div>
-		    <ul class="nav navbar-nav">
+		    <ul class="my-menu nav navbar-nav">
 		      	{% for item in site.data.navigation%}
 					<li><a href="{{ item.link }}">{{ item.name }}</a></li>
 				{% endfor %}
 		    </ul>
-		  </div>
 		</nav>
-  	</div>
 	<!-- Header -->
 
 	<!-- Content -->
+	<div id="short-links" class="navbar-fixed-left">
+		<p> Short links</p>
+		<ul class="list-group">
+			{% for item in site.data.projects %}
+		  		<li class="list-group-item">{{ item.name }}</li>	  
+	  		{% endfor %}
+		</ul>
+	</div>
+
   	<div id = "content">
     	{{ content }}
 	</div>
@@ -44,7 +53,7 @@
 	<footer>
 		<p>
 			© 2018 Copyright:
-			<a href="https://mdbootstrap.com/bootstrap-tutorial/"> MDBootstrap.com</a>	
+			<a href="Auburn 2018"> Auburn university, Auburn, Alabama, USA</a>	
 		</p>
 
 	</div>
