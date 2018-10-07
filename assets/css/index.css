@@ -1,10 +1,36 @@
-#content{
-	margin-left: 28%;
-	margin-top: 70px;
-	margin-right: 10%;
-	/*border: 1px solid black;*/
-	float: left;
+@media only screen and (min-width: 1000px) {
+	#content{
+		margin-left: 28%;
+		margin-top: 70px;
+		margin-right: 10%;
+		/*border: 1px solid black;*/
+		float: left;
+	}
+	.member{
+		float: left;
+		width: 50%;
+		padding: 8px;
+		text-align: justify;
+		/*border: 1px solid black;*/
+	}
 }
+
+@media only screen and (max-width: 1000px) {
+	#content{
+		float: left;
+		margin: 10px;
+		padding: 0px;
+		display: block;
+	}
+	.member{
+		float: left;
+		width: 100%;
+		padding: 8px;
+		text-align: justify;
+		/*border: 1px solid black;*/
+	}
+}
+
 
 #team-description{
 	text-align: justify;
@@ -14,13 +40,7 @@
 	margin-top: 20px;
 }
 
-.member{
-	float: left;
-	width: 50%;
-	padding: 8px;
-	text-align: justify;
-	/*border: 1px solid black;*/
-}
+
 
 .member > img{
 	width: 120px;

@@ -1,9 +1,21 @@
-#short-links{
-	position: fixed;
-	top: 70px;
-	left: 15%;
-	/*border: 1px solid black;*/
+@media only screen and (min-width: 1000px) {
+	#short-links{
+		position: fixed;
+		top: 70px;
+		left: 15%;
+		/*border: 1px solid black;*/
+	}
 }
+
+@media only screen and (max-width: 1000px) {
+	#short-links{
+		/*float: left;*/
+		display: none;
+		/*margin: auto;*/
+		/*width: 100%;*/
+	}
+}
+
 
 #short-links > p{
 	font-weight: bold;

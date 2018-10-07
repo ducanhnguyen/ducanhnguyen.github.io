@@ -20,18 +20,17 @@
   </head>
   <body>
   	<!-- Header -->
-  	<div id="container-fluid">
-  		<nav class="navbar navbar-inverse container-fluid navbar-fixed-top">
-		    <div class="navbar-header">
-		    	<img id="auburn" src="./assets/images/auburn.png" alt="Logo">
-		    	<a id="team-name" class="navbar-brand" href="#">SIS Research Group</a>
-		    </div>
-		    <ul class="my-menu nav navbar-nav">
-		      	{% for item in site.data.navigation%}
-					<li><a href="{{ item.link }}">{{ item.name }}</a></li>
-				{% endfor %}
-		    </ul>
-		</nav>
+	<nav class="my-nav navbar navbar-inverse container-fluid">
+	    <div class="navbar-header">
+	    	<img id="auburn" src="./assets/images/auburn.png" alt="Logo">
+	    	<a id="team-name" class="navbar-brand" href="#">SIS Research Group</a>
+	    </div>
+	    <ul class="my-menu nav navbar-nav">
+	      	{% for item in site.data.navigation%}
+				<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+			{% endfor %}
+	    </ul>
+	</nav>
 	<!-- Header -->
 
 	<!-- Content -->
@@ -56,7 +55,7 @@
 			<a href="Auburn 2018"> Auburn university, Auburn, Alabama, USA</a>	
 		</p>
 
-	</div>
+	</footer>
 	<!-- Footer -->
   </body>
 </html>
