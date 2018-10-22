@@ -1,14 +1,19 @@
 .project{
 	margin-bottom: 20px;
 	text-align: justify;
+	float: left;
+	width: 100%;
 }
 
-.project > img{
-	height: auto;
-	width: 70px;
+.conference-image{
 	display: inline;
-	float: left;
 	margin-right: 10px;
+	float: left;
+	width: 50px;
+}
+.project > .conference-image > img{
+	height: auto;
+	display: inline;
 }
 
 .project > p{
