@@ -1,15 +1,18 @@
 - name: "Tung Thanh Nguyen"
-  description: "<b>Education</b>: <br/>- Ph.D. Computer Engineering, Iowa State University<br/>- B.S. Computer Science, Hanoi University of Education <br/><b>Research Interests:</b> <br/>- Software Engineering, <br/>- Software Analytics, <br/>- Mobile App Development, <br/>- Machine Learning"
-  image: ./assets/images/tungnguyen.jpg
+  description: "Assistant Professor, Department of Computer Science and Software Engineering, Auburn university</br><b>Education</b>: <br/>- Ph.D. Computer Engineering, Iowa State University<br/>- B.S. Computer Science, Hanoi University of Education <br/><b>Research Interests:</b> <br/>- Software Engineering, <br/>- Software Analytics, <br/>- Mobile App Development, <br/>- Machine Learning"
+  image: "./assets/images/tungnguyen.jpg"
+  link: "https://dblp.uni-trier.de/pers/hd/n/Nguyen:Tung_Thanh"
 
 - name: Phong Minh Vu
-  description: "<b>Education</b>: <br/>- Ph.D. Computer Engineering, Iowa State University<br/>- B.S. Computer Science, Hanoi University of Education <br/><b>Research Interests:</b> <br/>- Software Engineering, <br/>- Software Analytics, <br/>- Mobile App Development, <br/>- Machine Learning"
-  image: ./assets/images/phongvu.jpg
+  description: "PhD Student"
+  image: "./assets/images/phongvu.jpg"
+  link: "https://dblp.uni-trier.de/pers/hd/v/Vu:Phong_Minh"
 
 - name: "Tam The Nguyen"
-  description: "<b>Education</b>: <br/>- Ph.D. Computer Engineering, Iowa State University<br/>- B.S. Computer Science, Hanoi University of Education <br/><b>Research Interests:</b> <br/>- Software Engineering, <br/>- Software Analytics, <br/>- Mobile App Development, <br/>- Machine Learning"
-  image: ./assets/images/tamnguyen.jpg
+  description: "PhD Student"
+  image: "./assets/images/tamnguyen.jpg"
+  link: "https://dblp.uni-trier.de/pers/hd/n/Nguyen:Tam_The"
 
-- name: "Duc Anh Nguyen"
-  description: "<b>Education</b>: <br/>- Ph.D. Computer Engineering, Iowa State University<br/>- B.S. Computer Science, Hanoi University of Education <br/><b>Research Interests:</b> <br/>- Software Engineering, <br/>- Software Analytics, <br/>- Mobile App Development, <br/>- Machine Learning"
-  image: ./assets/images/anhnguyen.jpg
+- name: "Duc-Anh Nguyen"
+  description: "PhD Student"
+  image: "./assets/images/anhnguyen.jpg"
