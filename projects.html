@@ -2,12 +2,28 @@
 layout: default
 title: Projects
 ---
-<h3> Projects </h3>
 
-<ol class="research">
+<div class="projects">
 	{% for item in site.data.projects %}
-	<li class="paper">
-		<p>{{ item.name}}</p>
-	</li>
+	<div class="paper">
+		<h3 style="color: red; font-weight: bold;">{{ item.name}}</h3>
+		
+		<p> {{ item.abstract }} </p>
+		
+		<figure class="figure">
+		  <img src="{{item.image}}" class="workplace figure-img img-fluid rounded" alt="{{ item.name}}">
+		  <figcaption class="figure-caption"><i>The overview of {{ item.name}}.</i></figcaption>
+		</figure>
+		
+		<a href="{{item.video}}">Video</a>
+		
+		<p>Papers</p>
+		<ol>
+			<li>{{item.paper1}}</li>
+			<li>{{item.paper2}}</li>
+			<li>{{item.paper3}}</li>
+			<li>{{item.paper4}}</li>
+		</ol>
+	</div>
 	{% endfor %}
-</ol>
+</div>

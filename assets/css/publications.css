@@ -1,0 +1,23 @@
+.paper{
+	margin-bottom: 20px;
+}
+
+.conference-image{
+	margin-right: 10px;
+	width: 50px;
+}
+
+.conference-name{
+	background-color: black; 
+	color: white;
+}
+
+.year-header{
+	color: red;
+	font-weight: bold;
+}
+
+.paper-link-img{
+	width: 15px;
+	height: auto;
+}

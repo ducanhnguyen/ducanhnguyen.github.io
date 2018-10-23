@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Tung Thanh Nguyen" n="54">
+   <person key="homepages/48/5816" mdate="2009-06-10">
+      <author>Tung Thanh Nguyen</author>
+   </person>
+   <r>
+      <inproceedings key="conf/icse/NguyenVPN18" mdate="2018-08-30">
+         <author>Tam The Nguyen</author>
+         <author>Phong Minh Vu</author>
+         <author>Hung Viet Pham</author>
+         <author>Tung Thanh Nguyen</author>
+         <title>Deep learning UI design patterns of mobile apps.</title>
+         <pages>65-68</pages>
+         <year>2018</year>
+         <booktitle>ICSE (NIER)</booktitle>
+         <ee>http://doi.acm.org/10.1145/3183399.3183422</ee>
+         <ee>http://ieeexplore.ieee.org/document/8444840</ee>
+         <crossref>conf/icse/2018nier</crossref>
+         <url>db/conf/icse/nier2018.html#NguyenVPN18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenVPN18a" mdate="2018-09-04">
+         <author>Tam The Nguyen</author>
+         <author>Phong Minh Vu</author>
+         <author>Hung Viet Pham</author>
+         <author>Tung Thanh Nguyen</author>
+         <title>Recommending exception handling patterns with ExAssist.</title>
+         <pages>282-283</pages>
+         <year>2018</year>
+         <booktitle>ICSE (Companion Volume)</booktitle>
+         <ee>http://doi.acm.org/10.1145/3183440.3194971</ee>
+         <ee>http://ieeexplore.ieee.org/document/8449540</ee>
+         <crossref>conf/icse/2018c</crossref>
+         <url>db/conf/icse/icse2018c.html#NguyenVPN18a</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/VuNNP18" mdate="2018-09-04">
+         <author>Phong Minh Vu</author>
+         <author>Tam The Nguyen</author>
+         <author>Tung Thanh Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <title>ALPACA-advanced linguistic pattern and concept analysis framework for software engineering corpora.</title>
+         <pages>284-285</pages>
+         <year>2018</year>
+         <booktitle>ICSE (Companion Volume)</booktitle>
+         <ee>http://doi.acm.org/10.1145/3183440.3194972</ee>
+         <ee>http://ieeexplore.ieee.org/document/8449541</ee>
+         <crossref>conf/icse/2018c</crossref>
+         <url>db/conf/icse/icse2018c.html#VuNNP18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/NguyenNNN17" mdate="2017-12-01">
+         <author>Hoan Anh Nguyen</author>
+         <author>Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <author>Hung Viet Nguyen</author>
+         <title>Interaction-Based Tracking of Program Entities for Test Case Evolution.</title>
+         <pages>433-443</pages>
+         <year>2017</year>
+         <booktitle>ICSME</booktitle>
+         <ee>https://doi.org/10.1109/ICSME.2017.43</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSME.2017.43</ee>
+         <crossref>conf/icsm/2017</crossref>
+         <url>db/conf/icsm/icsme2017.html#NguyenNNN17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenPVN16" mdate="2017-06-15">
+         <author>Tam The Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <author>Phong Minh Vu</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <title>Learning API usages from bytecode: a statistical approach.</title>
+         <pages>416-427</pages>
+         <year>2016</year>
+         <booktitle>ICSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2884781.2884873</ee>
+         <ee>http://ieeexplore.ieee.org/document/7886922/</ee>
+         <crossref>conf/icse/2016</crossref>
+         <url>db/conf/icse/icse2016.html#NguyenPVN16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/VuPNN16" mdate="2017-06-15">
+         <author>Phong Minh Vu</author>
+         <author>Hung Viet Pham</author>
+         <author>Tam The Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <title>Phrase-based extraction of user opinions in mobile app reviews.</title>
+         <pages>726-731</pages>
+         <year>2016</year>
+         <booktitle>ASE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2970276.2970365</ee>
+         <ee>http://ieeexplore.ieee.org/document/7582808/</ee>
+         <crossref>conf/kbse/2016</crossref>
+         <url>db/conf/kbse/ase2016.html#VuPNN16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNN15" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Divide-and-Conquer Approach for Multi-phase Statistical Migration for Source Code (T).</title>
+         <pages>585-596</pages>
+         <year>2015</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2015.74</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2015.74</ee>
+         <crossref>conf/kbse/2015</crossref>
+         <url>db/conf/kbse/ase2015.html#NguyenNN15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/VuNPN15" mdate="2017-06-15">
+         <author>Phong Minh Vu</author>
+         <author>Tam The Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <title>Mining User Opinions in Mobile App Reviews: A Keyword-Based Approach (T).</title>
+         <pages>749-759</pages>
+         <year>2015</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2015.85</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2015.85</ee>
+         <crossref>conf/kbse/2015</crossref>
+         <url>db/conf/kbse/ase2015.html#VuNPN15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/VuPNN15" mdate="2017-06-15">
+         <author>Phong Minh Vu</author>
+         <author>Hung Viet Pham</author>
+         <author>Tam The Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <title>Tool Support for Analyzing Mobile App Reviews.</title>
+         <pages>789-794</pages>
+         <year>2015</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2015.101</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2015.101</ee>
+         <crossref>conf/kbse/2015</crossref>
+         <url>db/conf/kbse/ase2015.html#VuPNN15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenPVN15" mdate="2017-06-15">
+         <author>Tam The Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <author>Phong Minh Vu</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <title>Recommending API Usages for Mobile Apps with Hidden Markov Model.</title>
+         <pages>795-800</pages>
+         <year>2015</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2015.109</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2015.109</ee>
+         <crossref>conf/kbse/2015</crossref>
+         <url>db/conf/kbse/ase2015.html#NguyenPVN15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/VuNPN15" mdate="2018-08-13">
+         <author>Phong Minh Vu</author>
+         <author>Tam The Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <author>Tung Thanh Nguyen</author>
+         <title>Mining User Opinions in Mobile App Reviews: A Keyword-based Approach.</title>
+         <year>2015</year>
+         <volume>abs/1505.04657</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1505.04657</ee>
+         <url>db/journals/corr/corr1505.html#VuNPN15</url>
+      </article>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/NguyenPVN15" mdate="2018-08-13">
+         <author>Tam The Nguyen</author>
+         <author>Hung Viet Pham</author>
+         <author>Phong Minh Vu</author>
+         <author>Tung Thanh Nguyen</author>
+         <title>Learning API Usages from Bytecode: A Statistical Approach.</title>
+         <year>2015</year>
+         <volume>abs/1507.07306</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1507.07306</ee>
+         <url>db/journals/corr/corr1507.html#NguyenPVN15</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/aslib/NguyenQP14" mdate="2017-05-27">
+         <author>Tung Thanh Nguyen</author>
+         <author>Tho Thanh Quan</author>
+         <author>Tuoi Thi Phan</author>
+         <title>Sentiment search: an emerging trend on social media monitoring systems.</title>
+         <pages>553-580</pages>
+         <year>2014</year>
+         <volume>66</volume>
+         <journal>Aslib J. Inf. Manag.</journal>
+         <number>5</number>
+         <ee>https://doi.org/10.1108/AJIM-12-2013-0141</ee>
+         <url>db/journals/aslib/aslib66.html#NguyenQP14</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/sigsoft/NguyenNN14" mdate="2018-08-21">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Tien N. Nguyen</author>
+         <title>Topic-based, time-aware bug assignment.</title>
+         <pages>1-4</pages>
+         <year>2014</year>
+         <volume>39</volume>
+         <journal>ACM SIGSOFT Software Engineering Notes</journal>
+         <number>1</number>
+         <ee>http://doi.acm.org/10.1145/2557833.2560585</ee>
+         <url>db/journals/sigsoft/sigsoft39.html#NguyenNN14</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenDKSN14" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Evelyn Duesterwald</author>
+         <author>Tim Klinger</author>
+         <author>Peter Santhanam</author>
+         <author>Tien N. Nguyen</author>
+         <title>Characterizing defect trends in software support.</title>
+         <pages>508-511</pages>
+         <year>2014</year>
+         <booktitle>ICSE Companion</booktitle>
+         <ee>http://doi.acm.org/10.1145/2591062.2591112</ee>
+         <crossref>conf/icse/2014c</crossref>
+         <url>db/conf/icse/icse2014c.html#NguyenDKSN14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNN14" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Migrating code with statistical machine translation.</title>
+         <pages>544-547</pages>
+         <year>2014</year>
+         <booktitle>ICSE Companion</booktitle>
+         <ee>http://doi.acm.org/10.1145/2591062.2591072</ee>
+         <crossref>conf/icse/2014c</crossref>
+         <url>db/conf/icse/icse2014c.html#NguyenNN14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNN14a" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Statistical learning of API mappings for language migration.</title>
+         <pages>618-619</pages>
+         <year>2014</year>
+         <booktitle>ICSE Companion</booktitle>
+         <ee>http://doi.acm.org/10.1145/2591062.2591144</ee>
+         <crossref>conf/icse/2014c</crossref>
+         <url>db/conf/icse/icse2014c.html#NguyenNNN14a</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNN14" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Statistical learning approach for mining API usage mappings for code migration.</title>
+         <pages>457-468</pages>
+         <year>2014</year>
+         <booktitle>ASE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2642937.2643010</ee>
+         <crossref>conf/kbse/2014</crossref>
+         <url>db/conf/kbse/ase2014.html#NguyenNNN14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNN04" mdate="2017-06-15">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>DRC: a detection tool for dangling references in PHP-based web applications.</title>
+         <pages>1299-1302</pages>
+         <year>2013</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2013.6606702</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2013.6606702</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=2486989</ee>
+         <crossref>conf/icse/2013</crossref>
+         <url>db/conf/icse/icse2013.html#NguyenNNN04</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/NguyenNNN13" mdate="2017-06-15">
+         <author>Hoan Anh Nguyen</author>
+         <author>Hung Viet Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Output-Oriented Refactoring in PHP-Based Dynamic Web Applications.</title>
+         <pages>150-159</pages>
+         <year>2013</year>
+         <booktitle>ICSM</booktitle>
+         <ee>https://doi.org/10.1109/ICSM.2013.26</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2013.26</ee>
+         <crossref>conf/icsm/2013</crossref>
+         <url>db/conf/icsm/icsm2013.html#NguyenNNN13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/NguyenNNN13a" mdate="2017-06-15">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Database-Aware Fault Localization for Dynamic Web Applications.</title>
+         <pages>456-459</pages>
+         <year>2013</year>
+         <booktitle>ICSM</booktitle>
+         <ee>https://doi.org/10.1109/ICSM.2013.71</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2013.71</ee>
+         <crossref>conf/icsm/2013</crossref>
+         <url>db/conf/icsm/icsm2013.html#NguyenNNN13a</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNNR13" mdate="2018-08-21">
+         <author>Hoan Anh Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <author>Hridesh Rajan</author>
+         <title>A study of repetitiveness of code changes in software evolution.</title>
+         <pages>180-190</pages>
+         <year>2013</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2013.6693078</ee>
+         <crossref>conf/kbse/2013</crossref>
+         <url>db/conf/kbse/ase2013.html#NguyenNNNR13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNNN13" mdate="2018-08-21">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Tien N. Nguyen</author>
+         <title>Dangling references in multi-configuration and dynamic PHP-based Web applications.</title>
+         <pages>399-409</pages>
+         <year>2013</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2013.6693098</ee>
+         <crossref>conf/kbse/2013</crossref>
+         <url>db/conf/kbse/ase2013.html#NguyenNNNN13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sigsoft/NguyenNNN13" mdate="2018-08-21">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>A statistical semantic language model for source code.</title>
+         <pages>532-542</pages>
+         <year>2013</year>
+         <booktitle>ESEC/SIGSOFT FSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2491411.2491458</ee>
+         <crossref>conf/sigsoft/2013</crossref>
+         <url>db/conf/sigsoft/fse2013.html#NguyenNNN13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sigsoft/NguyenNN13" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Lexical statistical machine translation for language migration.</title>
+         <pages>651-654</pages>
+         <year>2013</year>
+         <booktitle>ESEC/SIGSOFT FSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2491411.2494584</ee>
+         <crossref>conf/sigsoft/2013</crossref>
+         <url>db/conf/sigsoft/fse2013.html#NguyenNN13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/tse/NguyenNPAN12" mdate="2017-06-15">
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Clone Management for Evolving Software.</title>
+         <pages>1008-1026</pages>
+         <year>2012</year>
+         <volume>38</volume>
+         <journal>IEEE Trans. Software Eng.</journal>
+         <number>5</number>
+         <ee>https://doi.org/10.1109/TSE.2011.90</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2011.90</ee>
+         <url>db/journals/tse/tse38.html#NguyenNPAN12</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNTNAN12" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Ahmed Tamrawi</author>
+         <author>Hung Viet Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Graph-based pattern-oriented, context-sensitive source code completion.</title>
+         <pages>69-79</pages>
+         <year>2012</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2012.6227205</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227205</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=2337232</ee>
+         <crossref>conf/icse/2012</crossref>
+         <url>db/conf/icse/icse2012.html#NguyenNNTNAN12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNDKS12" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <author>Evelyn Duesterwald</author>
+         <author>Tim Klinger</author>
+         <author>Peter Santhanam</author>
+         <title>Inferring developer expertise through defect analysis.</title>
+         <pages>1297-1300</pages>
+         <year>2012</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2012.6227095</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227095</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=2337400</ee>
+         <crossref>conf/icse/2012</crossref>
+         <url>db/conf/icse/icse2012.html#NguyenNDKS12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNN12" mdate="2017-06-15">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>BabelRef: Detection and renaming tool for cross-language program entities in dynamic web applications.</title>
+         <pages>1391-1394</pages>
+         <year>2012</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2012.6227240</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227240</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=2337426</ee>
+         <crossref>conf/icse/2012</crossref>
+         <url>db/conf/icse/icse2012.html#NguyenNNN12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNN12a" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>GraPacc: A graph-based pattern-oriented, context-sensitive code completion tool.</title>
+         <pages>1407-1410</pages>
+         <year>2012</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2012.6227236</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227236</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=2337431</ee>
+         <crossref>conf/icse/2012</crossref>
+         <url>db/conf/icse/icse2012.html#NguyenNNN12a</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/Al-KofahiNNNN12" mdate="2018-08-21">
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Hung Viet Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Detecting semantic changes in Makefile build code.</title>
+         <pages>150-159</pages>
+         <year>2012</year>
+         <booktitle>ICSM</booktitle>
+         <ee>https://doi.org/10.1109/ICSM.2012.6405266</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2012.6405266</ee>
+         <crossref>conf/icsm/2012</crossref>
+         <url>db/conf/icsm/icsm2012.html#Al-KofahiNNNN12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNLS12" mdate="2018-09-13">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <author orcid="0000-0002-4367-7201">David Lo 0001</author>
+         <author>Chengnian Sun</author>
+         <title>Duplicate bug report detection with a combination of information retrieval and topic modeling.</title>
+         <pages>70-79</pages>
+         <year>2012</year>
+         <booktitle>ASE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2351676.2351687</ee>
+         <crossref>conf/kbse/2012</crossref>
+         <url>db/conf/kbse/ase2012.html#NguyenNNLS12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNNN12" mdate="2018-08-21">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Tien N. Nguyen</author>
+         <title>Detection of embedded code smells in dynamic web applications.</title>
+         <pages>282-285</pages>
+         <year>2012</year>
+         <booktitle>ASE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2351676.2351724</ee>
+         <crossref>conf/kbse/2012</crossref>
+         <url>db/conf/kbse/ase2012.html#NguyenNNNN12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sigsoft/NguyenNNN12" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Multi-layered approach for recovering links between bug reports and fixes.</title>
+         <pages>63</pages>
+         <year>2012</year>
+         <booktitle>SIGSOFT FSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2393596.2393671</ee>
+         <crossref>conf/sigsoft/2012</crossref>
+         <url>db/conf/sigsoft/fse2012.html#NguyenNNN12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNNN11" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Aspect recommendation for evolving software.</title>
+         <pages>361-370</pages>
+         <year>2011</year>
+         <booktitle>ICSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/1985793.1985843</ee>
+         <crossref>conf/icse/2011</crossref>
+         <url>db/conf/icse/icse2011.html#NguyenNNN11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/TamrawiNAN11" mdate="2017-06-15">
+         <author>Ahmed Tamrawi</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Fuzzy set-based automatic bug triaging.</title>
+         <pages>884-887</pages>
+         <year>2011</year>
+         <booktitle>ICSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/1985793.1985934</ee>
+         <crossref>conf/icse/2011</crossref>
+         <url>db/conf/icse/icse2011.html#TamrawiNAN11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNP11" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <author>Tu Minh Phuong</author>
+         <title>Topic-based defect prediction.</title>
+         <pages>932-935</pages>
+         <year>2011</year>
+         <booktitle>ICSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/1985793.1985950</ee>
+         <crossref>conf/icse/2011</crossref>
+         <url>db/conf/icse/icse2011.html#NguyenNP11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNN11" mdate="2017-06-15">
+         <author>Hung Viet Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Auto-locating and fix-propagating for HTML validation errors to PHP server-side code.</title>
+         <pages>13-22</pages>
+         <year>2011</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2011.6100047</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2011.6100047</ee>
+         <crossref>conf/kbse/2011</crossref>
+         <url>db/conf/kbse/ase2011.html#NguyenNNN11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNANN11" mdate="2018-08-21">
+         <author>Anh Tuan Nguyen 0001</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Hung Viet Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>A topic-based approach for narrowing the search space of buggy files from a bug report.</title>
+         <pages>263-272</pages>
+         <year>2011</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2011.6100062</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2011.6100062</ee>
+         <crossref>conf/kbse/2011</crossref>
+         <url>db/conf/kbse/ase2011.html#NguyenNANN11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNNN11a" mdate="2017-06-15">
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hung Viet Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>iDiff: Interaction-based program differencing tool.</title>
+         <pages>572-575</pages>
+         <year>2011</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2011.6100128</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2011.6100128</ee>
+         <crossref>conf/kbse/2011</crossref>
+         <url>db/conf/kbse/ase2011.html#NguyenNNN11a</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sigsoft/TamrawiNAN11" mdate="2017-06-15">
+         <author>Ahmed Tamrawi</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Fuzzy set and cache-based approach for bug triaging.</title>
+         <pages>365-375</pages>
+         <year>2011</year>
+         <booktitle>SIGSOFT FSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/2025113.2025163</ee>
+         <crossref>conf/sigsoft/2011</crossref>
+         <url>db/conf/sigsoft/fse2011.html#TamrawiNAN11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/fase/NguyenNPN10" mdate="2018-06-26">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Tien N. Nguyen</author>
+         <title>Operation-Based, Fine-Grained Version Control Model for Tree-Based Representation.</title>
+         <pages>74-90</pages>
+         <year>2010</year>
+         <booktitle>FASE</booktitle>
+         <ee type="oa">https://doi.org/10.1007/978-3-642-12029-9_6</ee>
+         <crossref>conf/fase/2010</crossref>
+         <url>db/conf/fase/fase2010.html#NguyenNPN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/PhamNNWNN10" mdate="2018-08-21">
+         <author>Nam H. Pham</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Xinying Wang</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Tien N. Nguyen</author>
+         <title>Detecting recurring and similar software vulnerabilities.</title>
+         <pages>227-230</pages>
+         <year>2010</year>
+         <booktitle>ICSE (2)</booktitle>
+         <ee>http://doi.acm.org/10.1145/1810295.1810336</ee>
+         <crossref>conf/icse/2010-2</crossref>
+         <url>db/conf/icse/icse2010-2.html#PhamNNWNN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNPAN10" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Recurring bug fixes in object-oriented programs.</title>
+         <pages>315-324</pages>
+         <year>2010</year>
+         <booktitle>ICSE (1)</booktitle>
+         <ee>http://doi.acm.org/10.1145/1806799.1806847</ee>
+         <crossref>conf/icse/2010-1</crossref>
+         <url>db/conf/icse/icse2010-1.html#NguyenNPAN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/Al-KofahiTNNN10" mdate="2017-06-15">
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Ahmed Tamrawi</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Fuzzy set approach for automatic tagging in evolving software.</title>
+         <pages>1-10</pages>
+         <year>2010</year>
+         <booktitle>ICSM</booktitle>
+         <ee>https://doi.org/10.1109/ICSM.2010.5609751</ee>
+         <crossref>conf/icsm/2010</crossref>
+         <url>db/conf/icsm/icsm2010.html#Al-KofahiTNNN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/PhamNNN10" mdate="2017-06-15">
+         <author>Nam H. Pham</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Tien N. Nguyen</author>
+         <title>Detection of recurring software vulnerabilities.</title>
+         <pages>447-456</pages>
+         <year>2010</year>
+         <booktitle>ASE</booktitle>
+         <ee>http://doi.acm.org/10.1145/1858996.1859089</ee>
+         <crossref>conf/kbse/2010</crossref>
+         <url>db/conf/kbse/ase2010.html#PhamNNN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/oopsla/NguyenNWNKN10" mdate="2018-08-21">
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Gary Wilson Jr.</author>
+         <author>Anh Tuan Nguyen 0001</author>
+         <author>Miryung Kim</author>
+         <author>Tien N. Nguyen</author>
+         <title>A graph-based approach to API usage adaptation.</title>
+         <pages>302-321</pages>
+         <year>2010</year>
+         <booktitle>OOPSLA</booktitle>
+         <ee>http://doi.acm.org/10.1145/1869459.1869486</ee>
+         <crossref>conf/oopsla/2010</crossref>
+         <url>db/conf/oopsla/oopsla2010.html#NguyenNWNKN10</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/fase/NguyenNPAN09" mdate="2018-06-26">
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Accurate and Efficient Structural Characteristic Feature Extraction for Clone Detection.</title>
+         <pages>440-455</pages>
+         <year>2009</year>
+         <booktitle>FASE</booktitle>
+         <ee type="oa">https://doi.org/10.1007/978-3-642-00593-0_31</ee>
+         <crossref>conf/fase/2009</crossref>
+         <url>db/conf/fase/fase2009.html#NguyenNPAN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/PhamNNAN09" mdate="2017-06-15">
+         <author>Nam H. Pham</author>
+         <author>Hoan Anh Nguyen</author>
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Complete and accurate clone detection in graph-based models.</title>
+         <pages>276-286</pages>
+         <year>2009</year>
+         <booktitle>ICSE</booktitle>
+         <ee>https://doi.org/10.1109/ICSE.2009.5070528</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2009.5070528</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=1555043</ee>
+         <crossref>conf/icse/2009</crossref>
+         <url>db/conf/icse/icse2009.html#PhamNNAN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icse/NguyenNPAN09" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>ClemanX: Incremental clone detection tool for evolving software.</title>
+         <pages>437-438</pages>
+         <year>2009</year>
+         <booktitle>ICSE Companion</booktitle>
+         <ee>https://doi.org/10.1109/ICSE-COMPANION.2009.5071050</ee>
+         <crossref>conf/icse/2009c</crossref>
+         <url>db/conf/icse/icse2009c.html#NguyenNPAN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icsm/NguyenNAPN09" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Nam H. Pham</author>
+         <author>Tien N. Nguyen</author>
+         <title>Scalable and incremental clone detection for evolving software.</title>
+         <pages>491-494</pages>
+         <year>2009</year>
+         <booktitle>ICSM</booktitle>
+         <ee>https://doi.org/10.1109/ICSM.2009.5306283</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2009.5306283</ee>
+         <crossref>conf/icsm/2009</crossref>
+         <url>db/conf/icsm/icsm2009.html#NguyenNAPN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNPAN09" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Clone-Aware Configuration Management.</title>
+         <pages>123-134</pages>
+         <year>2009</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2009.90</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2009.90</ee>
+         <crossref>conf/kbse/2009</crossref>
+         <url>db/conf/kbse/ase2009.html#NguyenNPAN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sigsoft/NguyenNPAN09" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Graph-based mining of multiple object usage patterns.</title>
+         <pages>383-392</pages>
+         <year>2009</year>
+         <booktitle>ESEC/SIGSOFT FSE</booktitle>
+         <ee>http://doi.acm.org/10.1145/1595696.1595767</ee>
+         <crossref>conf/sigsoft/2009</crossref>
+         <url>db/conf/sigsoft/fse2009.html#NguyenNPAN09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kbse/NguyenNPAN08" mdate="2017-06-15">
+         <author orcid="0000-0003-4232-0566">Tung Thanh Nguyen</author>
+         <author>Hoan Anh Nguyen</author>
+         <author>Nam H. Pham</author>
+         <author>Jafar M. Al-Kofahi</author>
+         <author>Tien N. Nguyen</author>
+         <title>Cleman: Comprehensive Clone Group Evolution Management.</title>
+         <pages>451-454</pages>
+         <year>2008</year>
+         <booktitle>ASE</booktitle>
+         <ee>https://doi.org/10.1109/ASE.2008.71</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2008.71</ee>
+         <crossref>conf/kbse/2008</crossref>
+         <url>db/conf/kbse/ase2008.html#NguyenNPAN08</url>
+      </inproceedings>
+   </r>
+   <coauthors n="22" nc="3">
+      <co c="0">
+         <na f="a/Al=Kofahi:Jafar_M=">Jafar M. Al-Kofahi</na>
+      </co>
+      <co c="0">
+         <na f="d/Duesterwald:Evelyn">Evelyn Duesterwald</na>
+      </co>
+      <co c="0">
+         <na f="k/Kim:Miryung">Miryung Kim</na>
+      </co>
+      <co c="0">
+         <na f="k/Klinger:Tim">Tim Klinger</na>
+      </co>
+      <co c="0">
+         <na f="l/Lo_0001:David">David Lo 0001</na>
+      </co>
+      <co c="0">
+         <na f="n/Nguyen_0001:Anh_Tuan">Anh Tuan Nguyen 0001</na>
+      </co>
+      <co c="0">
+         <na f="n/Nguyen:Hoan_Anh">Hoan Anh Nguyen</na>
+      </co>
+      <co c="0">
+         <na f="n/Nguyen:Hung_Viet">Hung Viet Nguyen</na>
+      </co>
+      <co c="1">
+         <na f="n/Nguyen:Tam_The">Tam The Nguyen</na>
+      </co>
+      <co c="0">
+         <na f="n/Nguyen:Tien_N=">Tien N. Nguyen</na>
+      </co>
+      <co c="1">
+         <na f="p/Pham:Hung_Viet">Hung Viet Pham</na>
+      </co>
+      <co c="0">
+         <na f="p/Pham:Nam_H=">Nam H. Pham</na>
+      </co>
+      <co c="2">
+         <na f="p/Phan:Tuoi_Thi">Tuoi Thi Phan</na>
+      </co>
+      <co c="0">
+         <na f="p/Phuong:Tu_Minh">Tu Minh Phuong</na>
+      </co>
+      <co c="2">
+         <na f="q/Quan:Tho_Thanh">Tho Thanh Quan</na>
+      </co>
+      <co c="0">
+         <na f="r/Rajan:Hridesh">Hridesh Rajan</na>
+      </co>
+      <co c="0">
+         <na f="s/Santhanam:Peter">Peter Santhanam</na>
+      </co>
+      <co c="0">
+         <na f="s/Sun:Chengnian">Chengnian Sun</na>
+      </co>
+      <co c="0">
+         <na f="t/Tamrawi:Ahmed">Ahmed Tamrawi</na>
+      </co>
+      <co c="1">
+         <na f="v/Vu:Phong_Minh">Phong Minh Vu</na>
+      </co>
+      <co c="0">
+         <na f="w/Wang:Xinying">Xinying Wang</na>
+      </co>
+      <co c="0">
+         <na f="w/Wilson_Jr=:Gary">Gary Wilson Jr.</na>
+      </co>
+   </coauthors>
+</dblpperson>

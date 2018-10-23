@@ -1,3 +1,20 @@
 - name: APLACA
-- name: Exception tool
-- name: Crawler tool
+  paper1: "Phong Minh Vu, Tam The Nguyen, Tung Thanh Nguyen, and Hung Viet Pham. 2018. ALPACA-advanced linguistic pattern and concept analysis framework for software engineering corpora. In Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings (ICSE '18). ACM, New York, NY, USA, 284-285. DOI: https://doi.org/10.1145/3183440.3194972"
+  paper2: "Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, and Tung Thanh Nguyen. 2016. Phrase-based extraction of user opinions in mobile app reviews. In Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016). ACM, New York, NY, USA, 726-731. DOI: https://doi.org/10.1145/2970276.2970365"
+  paper3: "Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, and Tung Thanh Nguyen. 2015. Tool Support for Analyzing Mobile App Reviews. In Proceedings of the 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE) (ASE '15). IEEE Computer Society, Washington, DC, USA, 789-794. DOI: https://doi.org/10.1109/ASE.2015.101"
+  paper4: "Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, and Tung Thanh Nguyen. 2015. Mining User Opinions in Mobile App Reviews: A Keyword-Based Approach (T). In Proceedings of the 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE) (ASE '15). IEEE Computer Society, Washington, DC, USA, 749-759. DOI: https://doi.org/10.1109/ASE.2015.85"
+  abstract: "Software engineering corpora often contain domain-specific concepts and linguistic patterns. Popular text analysis tools are not specially designed to analyze such concepts and patterns. In this paper, we introduce ALPACA, a novel, customizable text analysis framework. The main purpose of ALPACA is to analyze topics and their trends in a text corpus. It allows users to define a topic with a few initial domain-specific keywords and expand it into a much larger set. Every single keyword can be expanded into long clauses to describe topics more precisely. ALPACA extracts those clauses by matching text with linguistic patterns, which are long sequences mixing both specific words and part-of-speech tags frequently appeared in the corpus. ALPACA can detect these patterns directly from pre-processed text We present one example demonstrates the use of ALPACA for text corpora of security reports."
+  video: "https://youtu.be/UNw573qtEpw"
+  image: ""
+
+- name: "MARK"
+  paper1: ""
+  abstract: ""
+  video: "https://youtu.be/E6Lbqhg6Z7Y"
+  image: ""
+
+- name: "DroidAssist"
+  paper1: ""
+  abstract: ""
+  video: "https://youtu.be/TuN3D7iONvg"
+  image: ""
