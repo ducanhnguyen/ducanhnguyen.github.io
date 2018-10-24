@@ -1,18 +1,18 @@
+p{
+	text-align: justify;
+}
+
 @media only screen and (min-width: 1000px) {
 	#content{
 		margin-left: 28%;
 		margin-top: 70px;
 		margin-right: 10%;
-		/*border: 1px solid black;*/
 		float: left;
 	}
 	.member{
 		float: left;
-		/*width: 50%;*/
 		width: 100%;
 		padding: 8px;
-		text-align: justify;
-		/*border: 1px solid black;*/
 	}
 }
 
@@ -27,8 +27,6 @@
 		float: left;
 		width: 100%;
 		padding: 8px;
-		text-align: justify;
-		/*border: 1px solid black;*/
 	}
 }
 

@@ -8,22 +8,19 @@ title: Projects
 	<div class="paper">
 		<h3 style="color: red; font-weight: bold;">{{ item.name}}</h3>
 		
-		<p> {{ item.abstract }} </p>
+		<p> <i>Abstract</i>: {{ item.abstract }} </p>
 		
 		<figure class="figure">
-		  <img src="{{item.image}}" class="workplace figure-img img-fluid rounded" alt="{{ item.name}}">
-		  <figcaption class="figure-caption"><i>The overview of {{ item.name}}.</i></figcaption>
+		  <img src="{{item.image}}" class="image-project figure-img img-fluid rounded" alt="{{ item.name}}">
+		  <figcaption class="figure-caption"><i>{{item.image-caption}}</i></figcaption>
 		</figure>
 		
-		<a href="{{item.video}}">Video</a>
+		<p><i> Video: </i> <a href="{{item.video}}">Link</a> </p>
 		
-		<p>Papers</p>
-		<ol>
-			<li>{{item.paper1}}</li>
-			<li>{{item.paper2}}</li>
-			<li>{{item.paper3}}</li>
-			<li>{{item.paper4}}</li>
-		</ol>
+		<p>
+			<i>Paper:</i> {{item.paper}}
+			<a href="{{item.doi}}"><img class="paper-link-img" src="/assets/images/link_icon_blue.png" alt="Link"></a>
+		</p>
 	</div>
 	{% endfor %}
 </div>
